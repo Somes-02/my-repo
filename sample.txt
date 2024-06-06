@@ -1,3 +1,4 @@
 hii all 
 This is somes
-This is a sample file for my practice. 
+This is a sample file.
+This is for my practice. 
